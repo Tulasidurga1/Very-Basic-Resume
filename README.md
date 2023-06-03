@@ -4,4 +4,4 @@
 # Name:Tulasi Durga
 # Mobile No:9182922816
 # Email:jonnatulasidurga111@gmail.com
-# Hosted Link:-
+# Hosted Link:-https://tulasidurga1.github.io/very-basic-resume/
